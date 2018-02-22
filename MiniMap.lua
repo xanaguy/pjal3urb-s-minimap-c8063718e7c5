@@ -757,11 +757,7 @@ if RequiredScript == "lib/managers/hudmanagerpd2" then
 		drunk_pilot = {
 			class = "HUDMiniMapInterestEntity",
 			ignore_duration = true,
-		},	
-		boris = {
-			class = "HUDMiniMapInterestEntity",
-			ignore_duration = true,
-		},	
+		},		
 		highlight_character = {
 			class = "HUDMiniMapInterestEntity",
 			ignore_duration = true,
